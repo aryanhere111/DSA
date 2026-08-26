@@ -1,3 +1,4 @@
+//conversion of n into binary number then solve while storing it into answers
 class Solution {
 public:
     double myPow(double x, int n) {
